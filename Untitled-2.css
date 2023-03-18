@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-color: #AF4143;
+background-image: url("./images/background.jpg");
+	background-repeat: no-repeat;background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+}
